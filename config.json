@@ -1,0 +1,10 @@
+{
+  "vaultPath": "[PATH_TO_VAULT]",
+  "llmModel": "[MODEL_NAME]",
+  "embeddingModel": "nomic-embed-text",
+  "topK": 4,
+  "chunkSize": 1800,
+  "chunkOverlap": 250,
+  "indexPath": "vault.index",
+  "chunksPath": "chunks.json"
+}
